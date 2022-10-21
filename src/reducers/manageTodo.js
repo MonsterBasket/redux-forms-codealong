@@ -4,5 +4,7 @@ export default function manageTodo(state = {
 
   console.log("reducer received this action:", action);
 
+  
+
   return state;
 }
